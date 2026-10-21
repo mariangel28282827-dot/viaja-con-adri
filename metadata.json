@@ -1,0 +1,6 @@
+{
+  "name": "Viaja con Adri - Gestión de Marketing Digital",
+  "description": "Plataforma integral de gestión del proceso de marketing digital, ficha de caracterización PHVA, resolución de problemas y automatización para Viaja con Adri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
